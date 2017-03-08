@@ -1,5 +1,6 @@
 # Wong-Gold-Lewinsohn
 
+[![DOI](https://zenodo.org/badge/84369709.svg)](https://zenodo.org/badge/latestdoi/84369709)
 
 Visualization of obtained TCR CDR3a amino acid sequences. For this demonstration there are 3 donors across 2 tissues (blood vs. lung) such that all 3 donors have known pulmonary Mtb infections.
 
