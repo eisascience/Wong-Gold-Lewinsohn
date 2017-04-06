@@ -1,5 +1,6 @@
-# Lung.v.Blood.TCRseq.human.data v1.00
 # TCR Enrichment Analysis (TEA) Webtool
+
+
 
 [![DOI](https://zenodo.org/badge/84369709.svg)](https://zenodo.org/badge/latestdoi/84369709)
 
@@ -17,8 +18,7 @@ Eisa Mahyari, supervised by Dr. David M. Lewinsohn
 
 eisascience.com
 
-
-Data by:
+# Wong-Gold-Lewinsohn dataset Lung.v.Blood.TCRseq.human.data v1.00:
 
 Dr. Emily Wong
 
