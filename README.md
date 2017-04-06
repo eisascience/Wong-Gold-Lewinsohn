@@ -1,7 +1,4 @@
-# Wong-Gold-Lewinsohn 
-
-# Lung.v.Blood.TCRseq.human.data v1.00
-       and
+# Lung.v.Blood.TCRseq.human.data v1.00 : Wong-Gold-Lewinsohn 
 # TCR Enrichment Analysis (TEA) Webtool
 
 [![DOI](https://zenodo.org/badge/84369709.svg)](https://zenodo.org/badge/latestdoi/84369709)
