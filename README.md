@@ -1,7 +1,6 @@
 # TCR Enrichment Analysis (TEA) Webtool
 
 
-
 [![DOI](https://zenodo.org/badge/84369709.svg)](https://zenodo.org/badge/latestdoi/84369709)
 
 Visualization of obtained TCR CDR3a amino acid sequences. For this demonstration there are 3 donors across 2 tissues (blood vs. lung) such that all 3 donors have known pulmonary Mtb infections.
@@ -18,7 +17,7 @@ Eisa Mahyari, supervised by Dr. David M. Lewinsohn
 
 eisascience.com
 
-# Wong-Gold-Lewinsohn dataset Lung.v.Blood.TCRseq.human.data v1.00:
+# Wong-Gold-Lewinsohn dataset Lung.v.Blood.TCRseq.human.data v1.00
 
 Dr. Emily Wong
 
